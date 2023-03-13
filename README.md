@@ -1,0 +1,1 @@
+## Simple API wrote on NestJS with Prisma and Swagger
